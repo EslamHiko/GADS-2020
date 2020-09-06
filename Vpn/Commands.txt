@@ -20,7 +20,7 @@ ping -c 3 <Enter server-1's internal IP address here>
 
 exit
 
-
+ 
 gcloud compute addresses create vpn-1-static-ip --project=qwiklabs-gcp-04-664dd42e323d --region=us-central1
 
 gcloud compute addresses create vpn-2-static-ip --project=qwiklabs-gcp-04-664dd42e323d --region=europe-west1
@@ -65,5 +65,3 @@ ping -c 3 <Enter server-1's external IP address here>
 ping -c 3 <Enter server-1's internal IP address here>
 
 exit
-
-
