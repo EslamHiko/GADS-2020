@@ -26,6 +26,8 @@ The Cloud challenge is divided in two parts:
   1.Virtual Private Networks (VPN)
     - [Detailed](https://github.com/EslamHiko/GADS-2020/blob/master/translations/vpn.md)
     - [SH Commands Only](https://github.com/EslamHiko/GADS-2020/blob/master/translations/vpn.sh)
+    - [File I stored the commands in with the real project ID](https://github.com/EslamHiko/GADS-2020/blob/master/vpn/commands.txt)
   1.Google Cloud Fundamentals: Getting started with Cloud Storage and Cloud SQL
     - [Detailed](https://github.com/EslamHiko/GADS-2020/blob/master/translations/sql.md)
     - [SH Commands Only](https://github.com/EslamHiko/GADS-2020/blob/master/translations/sql.sh)
+    - [File I stored the commands in with the real project ID](https://github.com/EslamHiko/GADS-2020/blob/master/sql/commands.txt)
