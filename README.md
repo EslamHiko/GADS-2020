@@ -27,6 +27,10 @@ The Cloud challenge is divided in two parts:
 
 #### “Translation” of 2-3 selected labs from Console instructions to 100% command line instructions.
 
+In detailed versions after each task or sequence of console steps you can see **"Translation"** section that translate the steps into console commands.
+
+Mainly I used [gcloud](https://cloud.google.com/sdk/gcloud) documentation and guides to transform the tasks into terminal commands.
+
   1. Virtual Private Networks (VPN)
 
       - [Detailed](https://github.com/EslamHiko/GADS-2020/blob/master/translations/vpn.md)
